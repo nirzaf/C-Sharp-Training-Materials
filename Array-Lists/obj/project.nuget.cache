@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNq8nyhcuKBtCdG1ywbi90gCOIf0Khbr8kq6ASKC1XoEUQEwMHzIHYiMfe4vA9J20YnmjwhlD4B5j3Ix1KRz/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nirza\\OneDrive - QTS\\C-Sharp-Training-Materials\\Array-Lists\\Array-Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

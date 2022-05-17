@@ -1,0 +1,15 @@
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\bin\Debug\net6.0\Array-Lists.exe
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\bin\Debug\net6.0\Array-Lists.deps.json
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\bin\Debug\net6.0\Array-Lists.runtimeconfig.json
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\bin\Debug\net6.0\Array-Lists.dll
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\bin\Debug\net6.0\Array-Lists.pdb
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.csproj.AssemblyReference.cache
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.AssemblyInfoInputs.cache
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.AssemblyInfo.cs
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.csproj.CoreCompileInputs.cache
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.dll
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\refint\Array-Lists.dll
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.pdb
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\Array-Lists.genruntimeconfig.cache
+C:\Users\nirza\OneDrive - QTS\C-Sharp-Training-Materials\Array-Lists\obj\Debug\net6.0\ref\Array-Lists.dll
