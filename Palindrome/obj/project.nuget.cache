@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CDlq9kOY9hJmFhtfkb9MoTDAEHQjFtF3yAsyn9USuB9ZdHhz2uW47LBtW52vPiprvYRubjhffhLJMXx86ROW7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nirza\\OneDrive - QTS\\C-Sharp-Training-Materials\\Palindrome\\Palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
