@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine(getMin("))((  )"));
+Console.WriteLine(GetMin("))((  )"));
 
 static int DoIt(int x)
 {
@@ -9,22 +9,22 @@ static int DoIt(int x)
 }
 
 //Get the number parenthesis required to to have balanced parenthesis
-static int getMin(string s)
+static int GetMin(string s)
 {
-    int OpenBrancket = 0;
-    int CloseBrancket = 0;
+    int openBracket = 0;
+    int closeBracket = 0;
 
     foreach (char t in s)
     {
         if (t == '(')
         {
-            OpenBrancket++;
+            openBracket++;
         }
         else if (t == ')')
         {
-            CloseBrancket++;
+            closeBracket++;
         }
     }
 
-    return OpenBrancket >= CloseBrancket ? OpenBrancket - CloseBrancket : CloseBrancket - OpenBrancket;
+    return openBracket >= closeBracket ? openBracket - closeBracket : closeBracket - openBracket;
 }
