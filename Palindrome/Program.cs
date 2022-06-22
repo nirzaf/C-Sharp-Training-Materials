@@ -1,6 +1,8 @@
 ﻿
 Console.WriteLine(GetMin("))((  )"));
 
+Console.WriteLine(DoIt(5)); 
+
 static int DoIt(int x)
 {
     x += 1;
