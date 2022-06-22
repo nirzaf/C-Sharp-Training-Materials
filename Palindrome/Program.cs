@@ -14,13 +14,13 @@ static int getMin(string s)
     int OpenBrancket = 0;
     int CloseBrancket = 0;
 
-    for (int i = 0; i < s.Length; i++)
+    foreach (char t in s)
     {
-        if (s[i] == '(')
+        if (t == '(')
         {
             OpenBrancket++;
         }
-        else if (s[i] == ')')
+        else if (t == ')')
         {
             CloseBrancket++;
         }
