@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Fri Jul 01 2022 09:08:40 GMT+0300 (Arabian Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Palindrome/.idea/.idea.Palindrome/.idea/workspace.xml
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
