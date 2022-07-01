@@ -7,13 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa62c16e-72e9-4db1-ab62-83479a2036cf" name="Changes" comment=" int closeBracket = 0;">
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Palindrome.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Palindrome.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Palindrome.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Palindrome.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Palindrome.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Palindrome.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Palindrome.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Palindrome.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="fa62c16e-72e9-4db1-ab62-83479a2036cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655900698839</updated>
-      <workItem from="1655900742001" duration="793000" />
+      <workItem from="1655900742001" duration="1458000" />
     </task>
     <task id="LOCAL-00001" summary=" int closeBracket = 0;">
       <created>1655900817022</created>
@@ -80,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655900817022</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ccc">
+      <created>1655912090875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655912090875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value=" int closeBracket = 0;" />
-    <option name="LAST_COMMIT_MESSAGE" value=" int closeBracket = 0;" />
+    <MESSAGE value="ccc" />
+    <option name="LAST_COMMIT_MESSAGE" value="ccc" />
   </component>
 </project>
