@@ -1,6 +1,6 @@
 {
   "runOnStart": true,
-  "updateInterval": 30,
+  "updateInterval": 0,
   "logging": true,
   "silent": true,
   "commitMessage": "pushed by mfmfazrin1986@gmail.com at {ts.locale.long}",
