@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa62c16e-72e9-4db1-ab62-83479a2036cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ball.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Palindrome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Palindrome/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fa62c16e-72e9-4db1-ab62-83479a2036cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655900698839</updated>
       <workItem from="1655900742001" duration="1458000" />
-      <workItem from="1657199192863" duration="1458000" />
+      <workItem from="1657199192863" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary=" int closeBracket = 0;">
       <created>1655900817022</created>
@@ -89,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655912090875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="class updated">
+      <created>1657201628945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657201628945</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +114,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value=" int closeBracket = 0;" />
     <MESSAGE value="ccc" />
-    <option name="LAST_COMMIT_MESSAGE" value="ccc" />
+    <MESSAGE value="class updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="class updated" />
   </component>
 </project>

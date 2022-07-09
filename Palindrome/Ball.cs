@@ -30,4 +30,6 @@ public class Ball
             _position -= _speed;
         }
     }
+
+
 }
