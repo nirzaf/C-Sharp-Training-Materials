@@ -2,6 +2,8 @@
 
 Console.WriteLine(FindIt(n));
 
+Console.ReadLine();
+
 static int FindIt(int[] num)
 {
     Array.Sort(num);
