@@ -11,7 +11,7 @@ static int FindIt(int[] num)
     Console.WriteLine("Max Value : " + maxVal);
     int minVal = num[0];
     Console.WriteLine("Min Value : " + minVal);
-    int count = num.Count();
+    int count = num.Length;
     Console.WriteLine("Count : " + count);
     return maxVal - minVal - count + 1;
 }
