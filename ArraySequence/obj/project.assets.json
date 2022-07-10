@@ -8,27 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nirza\\.nuget\\packages\\": {}
+    "/Users/fazrin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nirza\\OneDrive - QTS\\C-Sharp-Training-Materials\\ArraySequence\\ArraySequence.csproj",
+      "projectUniqueName": "/Users/fazrin/Library/CloudStorage/OneDrive-QTS/C-Sharp-Training-Materials/ArraySequence/ArraySequence.csproj",
       "projectName": "ArraySequence",
-      "projectPath": "C:\\Users\\nirza\\OneDrive - QTS\\C-Sharp-Training-Materials\\ArraySequence\\ArraySequence.csproj",
-      "packagesPath": "C:\\Users\\nirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nirza\\OneDrive - QTS\\C-Sharp-Training-Materials\\ArraySequence\\obj\\",
+      "projectPath": "/Users/fazrin/Library/CloudStorage/OneDrive-QTS/C-Sharp-Training-Materials/ArraySequence/ArraySequence.csproj",
+      "packagesPath": "/Users/fazrin/.nuget/packages/",
+      "outputPath": "/Users/fazrin/Library/CloudStorage/OneDrive-QTS/C-Sharp-Training-Materials/ArraySequence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/fazrin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -55,30 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.3, 6.0.3]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.3, 6.0.3]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.3, 6.0.3]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.3, 6.0.3]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.3.22179.4\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }
