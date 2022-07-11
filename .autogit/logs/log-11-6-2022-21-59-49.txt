@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+Mon Jul 11 2022 21:59:49 GMT+0300 (Arabian Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Palindrome/bin/Debug/net6.0/Palindrome.dll
+* Palindrome/bin/Debug/net6.0/Palindrome.pdb
+* Palindrome/obj/Debug/net6.0/Palindrome.csproj.CoreCompileInputs.cache
+* Palindrome/obj/Debug/net6.0/Palindrome.dll
+* Palindrome/obj/Debug/net6.0/Palindrome.pdb
+* Palindrome/obj/Debug/net6.0/ref/Palindrome.dll
+* Palindrome/obj/Debug/net6.0/refint/Palindrome.dll
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
