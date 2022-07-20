@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+Wed Jul 20 2022 07:20:12 GMT+0300 (Arabian Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Array-Lists/obj/Debug/net6.0/Array-Lists.AssemblyInfo.cs
+* Array-Lists/obj/Debug/net6.0/Array-Lists.AssemblyInfoInputs.cache
+* Array-Lists/obj/Debug/net6.0/Array-Lists.GeneratedMSBuildEditorConfig.editorconfig
+* Array-Lists/obj/Debug/net6.0/Array-Lists.GlobalUsings.g.cs
+* Array-Lists/obj/Debug/net6.0/Array-Lists.assets.cache
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
