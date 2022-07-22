@@ -9,3 +9,9 @@ def send_email(email, password, message):
     server.sendmail(email, email, message)
     server.quit()
 
+#create a trigger to send email on each event
+def send_email_trigger(event, context):
+    send_email(
+        email='
+        ',
+        
