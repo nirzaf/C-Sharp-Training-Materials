@@ -15,3 +15,9 @@ static int FindIt(int[] num)
     Console.WriteLine("Count : " + count);
     return maxVal - minVal - count + 1;
 }
+
+//create a function that takes two dates argument and returns difference in days
+static int DateDiff(DateTime d1, DateTime d2)
+{
+    return (d1 - d2).Days;
+}
